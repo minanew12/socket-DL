@@ -4,12 +4,6 @@ The smart contracts that power the Data Layer of [Socket](https://socket.tech/).
 
 ## Local Development
 
-### Prereqs
-
-- Foundry
-- NodeJS
-- Yarn
-
 ### Setup
 
 Clone project and install dependencies.
